@@ -1,2 +1,2 @@
 # AtividadesPHP
-Atividades do curso da disciplina de PHP - Curso de DS
+Atividades da disciplina de PHP - Curso de DS
