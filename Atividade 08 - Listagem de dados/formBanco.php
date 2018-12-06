@@ -63,7 +63,7 @@ $dados = $stmt->fetch(PDO::FETCH_ASSOC);
 					echo "</select>";
 				
 				?>	
-			</select>
+		
 		</section>
 		<!-- Logo escola estadual -->
 		<img src="http://www.alvinhopatriota.com.br/wp-content/uploads/2015/11/ETE.jpg"><br>
